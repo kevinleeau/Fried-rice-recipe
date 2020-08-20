@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+    margin-left: 10rem;
+}
+
+
+.image{
+    width: 20%;
+    border-radius: 50px;
+    padding-top: 20px;
+}
